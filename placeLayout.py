@@ -13,7 +13,6 @@ label3 = tk.Label(master=window, text="Label 3", background='blue')
 label4 = tk.Label(master=window, text="Label 4", background='yellow')
 button1 = ttk.Button(master=window, text="Button 1")
 button2 = ttk.Button(master=window, text="Button 2")
-entry = ttk.Entry(master=window)
 
 # place layout
 #label1.place(x = 200, y = 100, width= 100, height = 200)
